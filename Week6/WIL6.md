@@ -27,3 +27,33 @@
 - justify-content : main axis
     
     align-item : cross axis
+    
+
+**Flexbox Froggy**
+
+1. justify-content: flex-end;
+2. justify-content: center;
+3. justify-content: space-around;
+4. justify-content: space-between;
+5. align-items: flex-end;
+6. justify-content: center;
+align-items: center;
+7. justify-content: space-around;
+align-items: flex-end;
+8. flex-direction: row-reverse;
+9. flex-direction: column;
+10. flex-direction: row-reverse;
+justify-content: start;
+11. flex-direction: column;
+justify-content: end;
+12. flex-direction: column-reverse;
+justify-content: space-between;
+13. flex-direction: row-reverse;
+justify-content: center;
+align-items: end;
+
+18. flex-wrap: wrap;
+
+1. flex-direction: column;
+flex-wrap: wrap;
+2. flex-flow: column wrap;
