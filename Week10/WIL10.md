@@ -148,7 +148,7 @@ Object.prototype.toString.call(undeclared);     // ReferenceError
 - 자바스크립트의 모든 객체는 자신의 부모 역할을 담당하는 객체와 연결 → 부모 객체의 프로퍼티 또는 메소드를 상속
 - 부모 객체를 Prototype(프로토타입) 객체 또는 줄여서 Prototype(프로토타입) → 생성자 함수에 의해 생성된 각각의 객체에 공유 프로퍼티를 제공하기 위해 사용
 
-![printout_student_obj_from_chrome](https://github.com/lzlkq/2023-1-OC-Web-Study/blob/main/Week10/printout_student_obj_from_chrome.png)
+![object_literal_prototype_chaining](https://github.com/lzlkq/2023-1-OC-Web-Study/blob/main/Week10/object_literal_prototype_chaining.png)
 
 1. ****[[Prototype]] vs prototype 프로퍼티****
 - 함수 객체는 일반 객체와는 달리 [[Prototype]] 인터널 슬롯과 prototype 프로퍼티도 소유
